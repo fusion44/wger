@@ -78,3 +78,9 @@ venv-wger
 /static/
 /extras/docker/open-food-facts/dump/*.tar.gz
 /extras/docker/open-food-facts/dump/off/*
+
+# Nix
+result
+
+# Wakatime
+.wakatime-project
